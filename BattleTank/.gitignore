@@ -76,6 +76,8 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# StarterContent
+Content/StarterContent/*
 
 ### Windows ###
 # Windows thumbnail cache files
